@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="amn">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/amn.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

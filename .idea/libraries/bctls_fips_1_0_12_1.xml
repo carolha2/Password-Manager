@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="bctls-fips-1.0.12.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/bc/bctls-fips-1.0.12.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

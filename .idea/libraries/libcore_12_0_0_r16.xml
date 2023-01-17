@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="libcore-12.0.0_r16">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/PKCS/libcore-12.0.0_r16.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
